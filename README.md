@@ -1,0 +1,2 @@
+# ticinocoin
+Ticino Coins
